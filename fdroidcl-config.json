@@ -1,0 +1,69 @@
+{
+	"repos": [
+		{
+			"id": "f-droid",
+			"url": "https://f-droid.org/repo",
+			"enabled": true
+		},
+		{
+			"id": "IzzyOnDroid",
+			"url": "https://apt.izzysoft.de/fdroid/repo",
+			"enabled": true
+		},
+		{
+			"id": "Guardian Project main",
+			"url": "https://guardianproject.info/fdroid/repo",
+			"enabled": true
+		},
+		{
+			"id": "Firefox Unofficial",
+			"url": "https://rfc2822.gitlab.io/fdroid-firefox/fdroid/repo",
+			"enabled": true
+		},
+		{
+			"id": "TwinHelix - Signal FOSS",
+			"url": "https://fdroid.twinhelix.com/fdroid/repo",
+			"enabled": true
+		},
+		{
+			"id": "Briar",
+			"url": "https://briarproject.org/fdroid/repo",
+			"enabled": true
+		},
+		{
+			"id": "Bromite",
+			"url": "https://fdroid.bromite.org/fdroid/repo",
+			"enabled": true
+		},
+		{
+			"id": "Ungoogled Chromium",
+			"url": "https://www.droidware.info/fdroid/repo",
+			"enabled": true
+		},
+		{
+			"id": "Collabora Office",
+			"url": "https://www.collaboraoffice.com/downloads/fdroid/repo",
+			"enabled": true
+		},
+		{
+			"id": "MicroG",
+			"url": "https://microg.org/fdroid/repo",
+			"enabled": true
+		},
+		{
+			"id": "Molly (Signal)",
+			"url": "https://molly.im/fdroid/foss/fdroid/repo",
+			"enabled": true
+		},				
+		{
+			"id": "I2P",
+			"url": "https://f-droid.i2p.io/repo",
+			"enabled": true
+		},		
+		{
+			"id": "f-droid-archive",
+			"url": "https://f-droid.org/archive",
+			"enabled": false
+		}
+	]
+}
