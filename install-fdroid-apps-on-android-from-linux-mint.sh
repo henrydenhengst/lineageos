@@ -78,3 +78,14 @@ fdroidcl install org.mozilla.focus:352631859
 fdroidcl install deltazero.amarok.foss:27
 # Install Signal
 fdroidcl install org.thoughtcrime.securesms:112305
+# Simple Book Reader
+fdroidcl install com.github.axet.bookreader:416
+# Collabora Office
+fdroidcl install com.collabora.libreoffice:2147483647
+# LibreAV
+fdroidcl install tech.projectmatris.antimalwareapp:10400
+# Install Aegis Authenticator 2FA
+fdroidcl install com.beemdevelopment.aegis:56
+# Install eSpeak voor Organicsmaps
+fdroidcl install com.googlecode.eyesfree.espeak:7
+# of fdroidcl install com.reecedunn.espeak:21
