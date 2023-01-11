@@ -87,5 +87,4 @@ fdroidcl install tech.projectmatris.antimalwareapp:10400
 # Install Aegis Authenticator 2FA
 fdroidcl install com.beemdevelopment.aegis:56
 # Install eSpeak voor Organicsmaps
-fdroidcl install com.googlecode.eyesfree.espeak:7
-# of fdroidcl install com.reecedunn.espeak:21
+fdroidcl install com.reecedunn.espeak:21
