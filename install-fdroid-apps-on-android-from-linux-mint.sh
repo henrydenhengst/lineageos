@@ -22,7 +22,7 @@
 #        AUTHOR:  Henry den Hengst , henrydenhengst@gmail.com
 #       COMPANY:  privacy-software.nl
 #       VERSION:  0.01
-#       CREATED:  09-01-2023
+#       CREATED:  11-01-2023
 #      REVISION:  ---
 #==================================================================================
 #
@@ -86,5 +86,7 @@ fdroidcl install com.collabora.libreoffice:2147483647
 fdroidcl install tech.projectmatris.antimalwareapp:10400
 # Install Aegis Authenticator 2FA
 fdroidcl install com.beemdevelopment.aegis:56
-# Install eSpeak voor Organicsmaps
+# Install eSpeak TTS engine voor Organicsmaps
 fdroidcl install com.reecedunn.espeak:21
+# Install rhvoice TTS engine
+fdroidcl install com.github.olga_yakovleva.rhvoice.android:108000
