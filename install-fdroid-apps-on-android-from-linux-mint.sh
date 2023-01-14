@@ -56,6 +56,10 @@ fdroidcl install org.briarproject.briar.android:10419
 fdroidcl install org.jitsi.meet:227000
 # Install K9 Mail
 fdroidcl install com.fsck.k9:34000
+# Install Updater for privacy friendly browsers
+fdroidcl install de.marmaro.krt.ffupdater:124
+# Install Seamlessly stream music from YouTube Music
+fdroidcl install it.vfsfitvnm.vimusic:20
 # Install Syncthing
 fdroidcl install com.nutomic.syncthingandroid:4334
 # Install Organicmaps
@@ -86,7 +90,5 @@ fdroidcl install com.collabora.libreoffice:2147483647
 fdroidcl install tech.projectmatris.antimalwareapp:10400
 # Install Aegis Authenticator 2FA
 fdroidcl install com.beemdevelopment.aegis:56
-# Install eSpeak TTS engine voor Organicsmaps
-fdroidcl install com.reecedunn.espeak:21
 # Install rhvoice TTS engine
 fdroidcl install com.github.olga_yakovleva.rhvoice.android:108000
